@@ -1,0 +1,7 @@
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.exe
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.dll
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.deps.json
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.runtimeconfig.json
+C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Release\net6.0\PubTmp\Out\MyCoreApp.pdb
