@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
+    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
+    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj",
         "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\MyCoreApp\\MyCoreApp\\obj\\",
+        "outputPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

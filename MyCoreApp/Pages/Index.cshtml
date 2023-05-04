@@ -5,7 +5,7 @@
 }
 
 <div class="center">
-    <div id="map" style="height:600px; width:600px;"></div> 
+    <div id="map" style="height:500px; width:500px;"></div> 
     <script async defer
 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPHIana7ip3J58fGmXrJIaz0wGQBqwWvU&callback=initMAP">
 	</script>
@@ -14,13 +14,52 @@
         function initMAP() {  
             var SetmapOptions = {  
                 zoom: 15,  
-                center: new google.maps.LatLng(37.841530399999996,-122.10984239999999)  
+                center: new google.maps.LatLng(43.9638828,-75.9233591)  
             };  
+
             map = new google.maps.Map(document.getElementById('map'),  
-      SetmapOptions);  
-        }  
+                SetmapOptions);  
+
+            var markerObhiHome = new google.maps.Marker({
+              position: {lat: 43.963, lng: -75.921},
+	    
+              map: map,
+              label: {
+    					    color: 'dark grey',
+    					    fontWeight: 'bold',
+    					    text: 'Obhi Home'
+  				    },
+          
+             icon: image//{path: google.maps.SymbolPath.CIRCLE, 
+          			// scale: 5},
+        });
+
+         var imageSize = 20;
+          var image = {
+  url: 'https://cdn4.iconfinder.com/data/icons/media-and-entertainment-5/50/83-512.png',
+  size: new google.maps.Size(imageSize, imageSize),
+  
+};
+        }
   
     </script>  
-    <div>GET API KEY <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">HERE</a>:</div>
+    <div>GET API KEY <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">HERE</a>.</div>
+</div>
+
+<div>
+    <h1>table data</h1>
+
+    <!--display sample table data-->
+
+    <table >
+	<tbody>
+		<thead>
+			<th>@Model.sampleTableHeaders </th>
+		</thead>
+		<tr>
+			<td>@Model.sampleData</td>
+		</tr>
+	</tbody>
+</table>
 </div>
 
