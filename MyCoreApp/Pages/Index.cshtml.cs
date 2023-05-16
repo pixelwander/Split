@@ -9,15 +9,19 @@ namespace MyCoreApp.Pages
     {
         //Data
         public string sampleTableHeaders;
+        //
         public string sampleData;
 
         public void OnGet()
         {
             //Build the connection string
             //local connection string
-            string connectionString = "Data Source=(localdb)\\ProjectModels;Initial Catalog=prods;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            //string connectionString = "Data Source=(localdb)\\ProjectModels;Initial Catalog=prods;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
- 
+            //Azure connectionstring
+            string connectionString = "Server=tcp:mycoreappdbserver.database.windows.net,1433;Initial Catalog=prods;Persist Security Info=False;User ID=cs190admin;Password=class190besties!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30";
+            //string connectionString = "Server=tcp:13.86.216.196,1433;Initial Catalog=prods;Persist Security Info=False;User ID=cs190admin;Password=class190besties!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30";
+
             // Connect to a database
             SqlConnection conn = new SqlConnection(connectionString);
             conn.Open();
