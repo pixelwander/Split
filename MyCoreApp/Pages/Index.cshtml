@@ -1,65 +1,442 @@
 ﻿@page
-@model IndexModel
+@model MyCoreApp.Pages.IndexModel
 @{
     ViewData["Title"] = "Home page";
 }
-
-<div class="center">
-    <div id="map" style="height:500px; width:500px;"></div> 
-    <script async defer
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPHIana7ip3J58fGmXrJIaz0wGQBqwWvU&callback=initMAP">
-	</script>
-    <script>  
-        var map;  
-        function initMAP() {  
-            var SetmapOptions = {  
-                zoom: 15,  
-                center: new google.maps.LatLng(43.9638828,-75.9233591)  
-            };  
-
-            map = new google.maps.Map(document.getElementById('map'),  
-                SetmapOptions);  
-
-            var markerObhiHome = new google.maps.Marker({
-              position: {lat: 43.963, lng: -75.921},
-	    
-              map: map,
-              label: {
-    					    color: 'dark grey',
-    					    fontWeight: 'bold',
-    					    text: 'Obhi Home'
-  				    },
-          
-             icon: image//{path: google.maps.SymbolPath.CIRCLE, 
-          			// scale: 5},
-        });
-
-         var imageSize = 20;
-          var image = {
-  url: 'https://cdn4.iconfinder.com/data/icons/media-and-entertainment-5/50/83-512.png',
-  size: new google.maps.Size(imageSize, imageSize),
-  
-};
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+</head>
+<body>
+    <h1>Order Form</h1>
+    <form method="post">
+        <label for="numPeople" ">Number of People:</label>
+        <input type="number" name="numPeople" id="numPeople" required>
+        <br><br>
+        for (int i = 0; i < Model.numPeople; i++)
+        {
+            <label for="items">Items for Person (i + 1) (comma-separated):</label>
+            <input type="text" name="items[]" required>
+            <br><br>
         }
-  
-    </script>  
-    <div>GET API KEY <a href="https://developers.google.com/maps/documentation/javascript/get-api-key">HERE</a>.</div>
-</div>
+        <input type="submit" value="Submit Order">
+    </form>
+</body>
+</html>
+-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+</head>
+<body>
+    <h1>Order Form</h1>
+    <form method="post">
+        <label for="GetNumPeople">Number of People:</label>
+        <input type="number” id="GetNumPeople" name="GetNumPeople" required><br>
+        <h3>Order Details</h3>
+        <div id="orderDetails">
+        </div>
+        <button type="button" onclick="addOrderField()">Add Order</button><br><br>
+        <label for="tipPercentage">Tip Percentage:</label>
+        <select id="tipPercentage" name="tipPercentage">
+            <option value="0">0%</option>
+            <option value="10">10%</option>
+            <option value="15">15%</option>
+            <option value="20">20%</option>
+        </select><br><br>
+        <button type="submit" onclick="calculateTotals">Calculate Totals</button>
+        <button type="submit" onclick="calculateGrandTotal">Calculate Grand Total</button>
+    </form>
+    <script>function addOrderField() {
+            var orderContainer = document.getElementById("orderDetails");
+            var orderField = document.createElement("div");
+            var itemLabel = document.createElement("label");
+            itemLabel.textContent = "Items:";
+            orderField.appendChild(itemLabel);
+            var itemInput = document.createElement("input");
+            itemInput.type = "text";
+            itemInput.name = "items[]";
+            orderField.appendChild(itemInput);
+            var quantityLabel = document.createElement("label");
+            quantityLabel.textContent = "Quantity:";
+            orderField.appendChild(quantityLabel);
+            var quantityInput = document.createElement("input");
+            quantityInput.type = "number";
+            quantityInput.name = "quantities[]";
+            orderField.appendChild(quantityInput);
+            orderContainer.appendChild(orderField);
+            function calculateTotal() {
+                var numPeople = parseInt(document.getElementById("numPeople").value);
+                var orderSummary = document.getElementById("orderSummary");
+                orderSummary.innerHTML = ""; // Clear previous summary
+                for (var i = 0; i < numPeople; i++) {
+                    var personName = document.getElementsByName("names[]")[i].value;
+                    var items = document.getElementsByName("items[]");
+                    var quantities = document.getElementsByName("quantities[]");
+                    var total = 0;
+                    var personSummary = document.createElement("div");
+                    personSummary.innerHTML = "<strong>" + personName + "</strong>";
+                    for (var j = 0; j < items.length; j++) {
+                        if (items[j].value && quantities[j].value) {
+                            var item = items[j].value;
+                            var quantity = parseInt(quantities[j].value);
+                            personSummary.innerHTML += "<p>" + item + ": " + quantity + "</p>";
+                            // Calculate total per person
+                            total += quantity;
+                        }
+                    }</script>
+</body>
+</html>
+THIS IS THE CODE WE JUST USED!!!
 
-<div>
-    <h1>table data</h1>
+-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+</head>
+<body>
+    <h1>Order Form</h1>
+    <form method="post">
+        <label for="numPeople">Number of People:</label>
+        <input type="number" id="numPeople" name="numPeople" required><br>
+        <h3>Order Details</h3>
+        <div id="orderDetails">
 
-    <!--display sample table data-->
+        </div>
+        <button type="button" onclick="addOrderField()">Add Order</button><br><br>
+        <h3>Order Summary</h3>
+        <div id="orderSummary">
 
-    <table >
-	<tbody>
-		<thead>
-			<th>@Model.sampleTableHeaders </th>
-		</thead>
-		<tr>
-			<td>@Model.sampleData</td>
-		</tr>
-	</tbody>
-</table>
-</div>
+        </div>
+        <button type="submit">Calculate Total</button>
+    </form>
+    <script>
+        function addOrderField() {
+            var orderContainer = document.getElementById("orderDetails");
+            var orderField = document.createElement("div");
+            var nameLabel = document.createElement("label");
+            nameLabel.textContent = "Person Name: ";
+            orderField.appendChild(nameLabel);
+            var nameInput = document.createElement("input");
+            nameInput.type = "text";
+            nameInput.name = "names[]";
+            orderField.appendChild(nameInput);
+            var itemLabel = document.createElement("label");
+            itemLabel.textContent = "Items: ";
+            orderField.appendChild(itemLabel);
+            var itemInput = document.createElement("input");
+            itemInput.type = "text";
+            itemInput.name = "items[]";
+            orderField.appendChild(itemInput);
+            var quantityLabel = document.createElement("label");
+            quantityLabel.textContent = "Quantity: ";
+            orderField.appendChild(quantityLabel);
+            var quantityInput = document.createElement("input");
+            quantityInput.type = "number";
+            quantityInput.name = "quantities[]";
+            orderField.appendChild(quantityInput);
+            orderContainer.appendChild(orderField);
+        }
+        function calculateTotal() {
+            var numPeople = parseInt(document.getElementById("numPeople").value);
+            var orderSummary = document.getElementById("orderSummary");
+            orderSummary.innerHTML = ""; // Clear previous summary
+            for (var i = 0; i < numPeople; i++) {
+                var personName = document.getElementsByName("names[]")[i].value;
+                var items = document.getElementsByName("items[]");
+                var quantities = document.getElementsByName("quantities[]");
+                var total = 0;
+                var personSummary = document.createElement("div");
+                personSummary.innerHTML = "<strong>" + personName + "</strong>";
+                for (var j = 0; j < items.length; j++) {
+                    if (items[j].value && quantities[j].value) {
+                        var item = items[j].value;
+                        var quantity = parseInt(quantities[j].value);
+                        personSummary.innerHTML += "<p>" + item + ": " + quantity + "</p>";
+                        // Calculate total per person
+                        total += quantity;
+                    }
+                }
+                personSummary.innerHTML += "<p>Total: " + total + "</p>";
+                orderSummary.appendChild(personSummary);
+            }
+        }</script>
+</body>
+</html>
+-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+</head>
+<body>
+    <h1>Order Form</h1>
+    <form method="post">
+        <label for="numPeople">Number of People:</label>
+        <input type="number" id="numPeople" name="numPeople" required><br>
+        <h3>Order Details</h3>
+        <div id="orderDetails">
 
+        </div>
+        <button type="button" onclick="addOrderField()">Add Order</button><br><br>
+        <h3>Tip Percentage</h3>
+        <div id="tipDetails">
+
+        </div>
+        <button type="button" onclick="addTipField()">Add Tip</button><br><br>
+        <button type="submit">Calculate Totals</button>
+    </form>
+    <script>
+        function addOrderField() {
+            var orderContainer = document.getElementById("orderDetails");
+            var orderField = document.createElement("div");
+            var personLabel = document.createElement("label");
+            personLabel.textContent = "Person: ";
+            orderField.appendChild(personLabel);
+            var personInput = document.createElement("input");
+            personInput.type = "text";
+            personInput.name = "persons[]";
+            orderField.appendChild(personInput);
+            var itemLabel = document.createElement("label");
+            itemLabel.textContent = "Items: ";
+            orderField.appendChild(itemLabel);
+            var itemInput = document.createElement("input");
+            itemInput.type = "text";
+            itemInput.name = "items[]";
+            orderField.appendChild(itemInput);
+            var quantityLabel = document.createElement("label");
+            quantityLabel.textContent = "Quantity: ";
+            orderField.appendChild(quantityLabel);
+            var quantityInput = document.createElement("input");
+            quantityInput.type = "number";
+            quantityInput.name = "quantities[]";
+            orderField.appendChild(quantityInput);
+            orderContainer.appendChild(orderField);
+        }
+        function addTipField() {
+            var tipContainer = document.getElementById("tipDetails");
+            var tipField = document.createElement("div");
+            var personLabel = document.createElement("label");
+            personLabel.textContent = "Person: ";
+            tipField.appendChild(personLabel);
+            var personInput = document.createElement("input");
+            personInput.type = "text";
+            personInput.name = "persons[]";
+            tipField.appendChild(personInput);
+            var tipPercentageLabel = document.createElement("label");
+            tipPercentageLabel.textContent = "Tip Percentage:";
+            tipField.appendChild(tipPercentageLabel);
+            var tipPercentageInput = document.createElement("input");
+            tipPercentageInput.type = "number";
+            tipPercentageInput.name = "tipPercentages[]";
+            tipField.appendChild(tipPercentageInput);
+            tipContainer.appendChild(tipField);
+        }
+        function calculateTotal() {
+            var numPeople = parseInt(document.getElementById("numPeople").value);
+            var orderSummary = document.getElementById("orderSummary");
+            orderSummary.innerHTML = ""; // Clear previous summary
+            for (var i = 0; i < numPeople; i++) {
+                var personName = document.getElementsByName("names[]")[i].value;
+                var items = document.getElementsByName("items[]");
+                var quantities = document.getElementsByName("quantities[]");
+                var total = 0;
+                var personSummary = document.createElement("div");
+                personSummary.innerHTML = "<strong>" + personName + "</strong>";
+                for (var j = 0; j < items.length; j++) {
+                    if (items[j].value && quantities[j].value) {
+                        var item = items[j].value;
+                        var quantity = parseInt(quantities[j].value);
+                        personSummary.innerHTML += "<p>" + item + ": " + quantity + "</p>";
+                        // Calculate total per person
+                        total += quantity;
+
+        }</script>
+</body>
+</html>
+-->
+<!-------------------------NOT BEFORE THIS-------------------------->
+<!--THE ONE THAT WORKED-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+</head>
+<body>
+    <form method="post">
+        <label for="GetNumPeople">Number of People:</label>
+        <input type="number" id="GetNumPeople" name="GetNumPeople" min="1" max="10" required>
+        <br><br>
+        @for (int i = 0; i < Model.NumPeople; i++)
+        {
+            <h3>Person @(i + 1) Order:</h3>
+            <label for="person@(i + 1)">Items (separated by commas):</label>
+            <input type="text" id="person@(i + 1)" name="groups[@i]" required>
+            <br>
+            <label for="tip@(i + 1)">Tip Percentage (0, 10, 15, or 20):</label>
+            <select id="tip@(i + 1)" name="tips[@i]" required>
+                <option value="0">0%</option>
+                <option value="10">10%</option>
+                <option value="15">15%</option>
+                <option value="20">20%</option>
+            </select>
+            <br><br>
+        }
+        <button type="button" onclick="addOrderField()">Add Order</button><br><br>
+        <button type="submit" onclick="calculateTotals">Calculate Totals</button>
+        <button type="submit" onclick="calculateGrandTotal">Calculate Grand Total</button>
+    </form>
+    <script>function addOrderField() {
+            var orderContainer = document.getElementById("orderDetails");
+            var orderField = document.createElement("div");
+            var nameLabel = document.createElement("label");
+            nameLabel.textContent = "Person Name: ";
+            orderField.appendChild(nameLabel);
+            var nameInput = document.createElement("input");
+            nameInput.type = "text";
+            nameInput.name = "names[]";
+            orderField.appendChild(nameInput);
+            var itemLabel = document.createElement("label");
+            itemLabel.textContent = "Items: ";
+            orderField.appendChild(itemLabel);
+            var itemInput = document.createElement("input");
+            itemInput.type = "text";
+            itemInput.name = "items[]";
+            orderField.appendChild(itemInput);
+            var quantityLabel = document.createElement("label");
+            quantityLabel.textContent = "Quantity: ";
+            orderField.appendChild(quantityLabel);
+            var quantityInput = document.createElement("input");
+            quantityInput.type = "number";
+            quantityInput.name = "quantities[]";
+            orderField.appendChild(quantityInput);
+            orderContainer.appendChild(orderField);
+        }</script>
+</body>
+</html>
+-->
+
+
+
+<!--THE NULL EXCEPTION ERROR ONE-->
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Split Bill</title>
+</head>
+<body>
+    <h1>Split Bill Calculator</h1>
+    <form method="post">
+        <label for="NumPeople">Number of People:</label>
+        <input type="number" id="NumPeople" name="NumPeople" required><br><br>
+        <fieldset>
+            <legend>Group Items:</legend>
+            <div id="groupItemsContainer"></div>
+        </fieldset>
+        <br>
+        <label for="TipPercentage">Tip Percentage:</label>
+        <select id="TipPercentage" name="TipPercentage" required>
+            <option value="0">0%</option>
+            <option value="10">10%</option>
+            <option value="15">15%</option>
+            <option value="20">20%</option>
+        </select><br><br>
+        <input type="submit" value="Calculate">
+    </form>
+    <script>const numPeopleInput = document.getElementById('NumPeople');
+        const groupItemsContainer = document.getElementById('groupItemsContainer');
+        numPeopleInput.addEventListener('change', () => {
+            const numPeople = parseInt(numPeopleInput.value);
+            groupItemsContainer.innerHTML = '';
+            for (let i = 1; i <= numPeople; i++) {
+                const groupItemsInput = document.createElement('input');
+                groupItemsInput.type = 'text';
+                groupItemsInput.name = 'Group${i}';
+                groupItemsInput.placeholder = 'Items for Person ${i}';
+                groupItemsInput.required = true;
+                groupItemsContainer.appendChild(groupItemsInput);
+                groupItemsContainer.appendChild(document.createElement('br'));
+            }
+        });</script>
+</body>
+</html>
+-->
+
+
+<!--4:54-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Split Bill</title>
+</head>
+<body>
+    <h1>Split Bill Calculator</h1>
+    <form method="post">
+        <label for="NumPeople">Number of People:</label>
+        <input type="number" id="NumPeople" name="NumPeople" required><br><br>
+        <fieldset>
+            <legend>Group Items:</legend>
+            <div id="groupItemsContainer"></div>
+        </fieldset>
+        <button type="button" onclick="addOrderField()">Add Order</button><br><br>
+        <label for="TipPercentage">Tip Percentage:</label>
+        <select id="TipPercentage" name="TipPercentage" required>
+            <option value="0">0%</option>
+            <option value="10">10%</option>
+            <option value="15">15%</option>
+            <option value="20">20%</option>
+        </select><br><br>
+        <input type="submit" value="Calculate">
+    </form>
+    <script>const numPeopleInput = document.getElementById('NumPeople');
+        const groupItemsContainer = document.getElementById('groupItemsContainer');
+        numPeopleInput.addEventListener('change', () => {
+            const numPeople = parseInt(numPeopleInput.value);
+            groupItemsContainer.innerHTML = '';
+            for (let i = 1; i <= numPeople; i++) {
+                const groupItemsInput = document.createElement('input');
+                groupItemsInput.type = 'text';
+                groupItemsInput.name = 'Group${i}';
+                groupItemsInput.placeholder = 'Items for Person ${i}';
+                groupItemsInput.required = true;
+                groupItemsContainer.appendChild(groupItemsInput);
+                groupItemsContainer.appendChild(document.createElement(‘br’));
+            }
+        function addOrderField() {
+            var orderContainer = document.getElementById("orderDetails");
+            var orderField = document.createElement("div");
+            var nameLabel = document.createElement("label");
+            nameLabel.textContent = "Person Name: ";
+            orderField.appendChild(nameLabel);
+            var nameInput = document.createElement("input");
+            nameInput.type = "text";
+            nameInput.name = "names[]";
+            orderField.appendChild(nameInput);
+            var itemLabel = document.createElement("label");
+            itemLabel.textContent = "Items: ";
+            orderField.appendChild(itemLabel);
+            var itemInput = document.createElement("input");
+            itemInput.type = "text";
+            itemInput.name = "items[]";
+            orderField.appendChild(itemInput);
+            var quantityLabel = document.createElement("label");
+            quantityLabel.textContent = "Quantity: ";
+            orderField.appendChild(quantityLabel);
+            var quantityInput = document.createElement("input");
+            quantityInput.type = "number";
+            quantityInput.name = "quantities[]";
+            orderField.appendChild(quantityInput);
+            orderContainer.appendChild(orderField);
+        });</script>
+</body>
+</html>

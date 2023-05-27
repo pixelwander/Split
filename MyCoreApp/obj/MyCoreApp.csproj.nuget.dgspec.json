@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj": {}
+    "/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj": {
+    "/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\MyCoreApp.csproj",
-        "packagesPath": "C:\\Users\\crazy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crazy\\OneDrive\\Workspace-VS\\basicwebapp\\basicwebapp\\MyCoreApp\\obj\\",
+        "projectPath": "/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/MyCoreApp.csproj",
+        "packagesPath": "/Users/coleniswander/.nuget/packages/",
+        "outputPath": "/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/coleniswander/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,6 +52,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -61,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -73,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

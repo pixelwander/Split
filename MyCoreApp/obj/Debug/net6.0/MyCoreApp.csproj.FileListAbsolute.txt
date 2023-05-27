@@ -1,150 +1,223 @@
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.json
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
-C:\CS 192\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyCoreApp.props
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyCoreApp.props
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyCoreApp.props
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.pack.json
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\refint\MyCoreApp.dll
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
-C:\CS 192\MyCoreApp\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\appsettings.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp_Jayson\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\appsettings.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\MyCoreApp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\appsettings.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.staticwebassets.runtime.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.exe
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.deps.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.runtimeconfig.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.AssemblyReference.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfoInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.AssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CoreCompileInputs.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.RazorAssemblyInfo.cs
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\scopedcss\bundle\MyCoreApp.styles.css
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\ref\MyCoreApp.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.pdb
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.genruntimeconfig.cache
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Azure.Identity.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Memory.Data.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\obj\Debug\net6.0\MyCoreApp.csproj.CopyComplete
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Humanizer.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\crazy\OneDrive\Workspace-VS\basicwebapp\basicwebapp\MyCoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/appsettings.Development.json
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/appsettings.json
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.staticwebassets.runtime.json
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.exe
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.deps.json
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.runtimeconfig.json
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.dll
+C:/CS 192/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.pdb
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.AssemblyReference.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfoInputs.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfo.cs
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CoreCompileInputs.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cs
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.build.MyCoreApp.props
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MyCoreApp.props
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MyCoreApp.props
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets.pack.json
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/bundle/MyCoreApp.styles.css
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/projectbundle/MyCoreApp.bundle.scp.css
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.dll
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/refint/MyCoreApp.dll
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.pdb
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.genruntimeconfig.cache
+C:/CS 192/MyCoreApp/MyCoreApp/obj/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/appsettings.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.staticwebassets.runtime.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.exe
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.deps.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.runtimeconfig.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/bin/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.AssemblyReference.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfoInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CoreCompileInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/scopedcss/bundle/MyCoreApp.styles.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/scopedcss/projectbundle/MyCoreApp.bundle.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp_Jayson/MyCoreApp/obj/Debug/net6.0/MyCoreApp.genruntimeconfig.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/appsettings.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.staticwebassets.runtime.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.exe
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.deps.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.runtimeconfig.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.AssemblyReference.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfoInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CoreCompileInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/bundle/MyCoreApp.styles.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/scopedcss/projectbundle/MyCoreApp.bundle.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/MyCoreApp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.genruntimeconfig.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/appsettings.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.staticwebassets.runtime.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.exe
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.deps.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.runtimeconfig.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.AssemblyReference.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfoInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CoreCompileInputs.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cs
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/scopedcss/bundle/MyCoreApp.styles.css
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/scopedcss/projectbundle/MyCoreApp.bundle.scp.css
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/ref/MyCoreApp.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.pdb
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.genruntimeconfig.cache
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CopyComplete
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Humanizer.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/crazy/OneDrive/Workspace-VS/basicwebapp/basicwebapp/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.AssemblyReference.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfoInputs.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.AssemblyInfo.cs
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CoreCompileInputs.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.RazorAssemblyInfo.cs
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/refint/MyCoreApp.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.pdb
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/appsettings.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp.staticwebassets.runtime.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp.deps.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp.runtimeconfig.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/MyCoreApp.pdb
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Azure.Core.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Azure.Identity.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Humanizer.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/Npgsql.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.build.MyCoreApp.props
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MyCoreApp.props
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MyCoreApp.props
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/scopedcss/bundle/MyCoreApp.styles.css
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/scopedcss/projectbundle/MyCoreApp.bundle.scp.css
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.csproj.CopyComplete
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/MyCoreApp.genruntimeconfig.cache
+/Users/coleniswander/Desktop/CS-190/basicwebappwDB/MyCoreApp/obj/Debug/net6.0/ref/MyCoreApp.dll
